@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/arch/.vim'
+let g:netrw_dirhist_7='/home/arch/.vim/plugged/fzf.vim'
+let g:netrw_dirhist_6='/home/arch/.vim/plugged'
+let g:netrw_dirhist_5='/home/arch/.vim'
+let g:netrw_dirhist_4='/home/arch'
+let g:netrw_dirhist_3='/home'
+let g:netrw_dirhist_2='/home/arch'
+let g:netrw_dirhist_1='/home/arch/.vim'
+let g:netrw_dirhist_0='/home/arch'
+let g:netrw_dirhist_9='/'
